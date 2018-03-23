@@ -1,0 +1,22 @@
+{
+  "name": "graphqlserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenalliet/graphqlserver.git"
+  },
+  "author": "Ruben Alliet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenalliet/graphqlserver/issues"
+  },
+  "homepage": "https://github.com/rubenalliet/graphqlserver#readme",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}
